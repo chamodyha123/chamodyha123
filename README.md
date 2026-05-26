@@ -39,25 +39,75 @@ I focus on building clean, structured systems while maintaining strong visual ae
 
 ---
 
-## ⚙️ Tech Stack
+⚙️ Languages & Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-</p>
+“Code. Design. Build. Repeat.”
+
+💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=purple"/> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow"/> </p>
+🌐 Frontend Development
+<p> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> </p>
+🗄️ Backend & Database
+<p> <img src="https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/JWT_Security-0d1117?style=for-the-badge&logo=securityscorecard&logoColor=red"/> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=blue"/> </p>
+🤖 Data & Machine Learning
+<p> <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=orange"/> </p>
+🔧 Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/> <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B"/> <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/> </p>
+<p align="center"> <i>"Built with structure. Designed with emotion. Delivered with precision."</i> </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🏥 Hospital Management System  
-- 🌐 SpareHubLK Web Platform  
-- 🤖 Machine Learning – Fraud Detection  
-- 📊 Database-Driven Academic Systems  
+> “Building systems that are structured in logic, and cinematic in experience.”
+
+---
+
+### 🏥 Hospital Management System
+⚙️ Java • C# • SQL  
+└─ Database-driven healthcare system with structured patient & record management  
+└─ Focus: backend logic, data integrity, and system workflow design  
+
+---
+
+### 🌐 SpareHubLK Web Platform
+🎨 HTML • CSS • Bootstrap • JavaScript  
+└─ Responsive web platform built with modern UI components  
+└─ Focus: clean UI/UX, layout responsiveness, and user experience design  
+
+---
+
+### 🤖 Fraud Detection – Machine Learning System
+🧠 Python • Pandas • Scikit-learn • Data Analysis  
+└─ AI-based model for detecting online transaction fraud patterns  
+└─ Focus: data preprocessing, model training, prediction accuracy  
+
+---
+
+### 📊 Database-Driven Academic System
+🗄️ MySQL • SQL • Database Design  
+└─ Structured academic management system with optimized queries  
+└─ Focus: relational design, normalization, and performance tuning  
+
+---
+
+### 🔐 NextStep JWT Authentication API
+🔐 ASP.NET Core • C# • JWT • REST API  
+└─ Secure authentication system using token-based architecture  
+└─ Focus: backend security, token generation, API structure  
+
+---
+
+### 🎬 Personal Portfolio Website
+✨ HTML • CSS • Bootstrap • WordPress  
+└─ Cinematic personal branding portfolio with UI focus  
+└─ Focus: visual storytelling, layout design, and responsiveness  
+
+---
+
+<p align="center">
+  <i>"Code is structure. Design is emotion. Together, they become experience."</i>
+</p>
 
 ---
 
