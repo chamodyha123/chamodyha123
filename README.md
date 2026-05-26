@@ -30,9 +30,12 @@ Interests:
   - UI/UX Design
   - Cinematic Photography
 Currently Learning:
-  - Advanced SQL
-  - Backend Architecture
-  - Data Structures
+  - Advanced SQL & Database Optimization
+  - Backend Architecture (ASP.NET Core / REST APIs)
+  - JWT Authentication & Secure System Design
+  - Data Structures & Algorithms
+  - Machine Learning Fundamentals (Fraud Detection Models)
+  - Sustainable Software Engineering Practices
 ```
 
 I focus on building clean, structured systems while maintaining strong visual aesthetics in everything I create.
