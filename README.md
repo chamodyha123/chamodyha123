@@ -47,7 +47,15 @@ I focus on building clean, structured systems while maintaining strong visual ae
 “Code. Design. Build. Repeat.”
 
 💻 Programming Languages
-<p> <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=purple"/> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
 🌐 Frontend Development
 <p> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> </p>
 🗄️ Backend & Database
@@ -55,8 +63,21 @@ I focus on building clean, structured systems while maintaining strong visual ae
 🤖 Data & Machine Learning
 <p> <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=orange"/> </p>
 🔧 Tools & Platforms
-<p> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/> <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B"/> <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/> </p>
-<p align="center"> <i>"Built with structure. Designed with emotion. Delivered with precision."</i> </p>
+<p>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>"Built with structure. Designed with emotion. Delivered with precision."</i>
+</p>
 
 ---
 
