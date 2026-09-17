@@ -441,14 +441,7 @@ Educational platform designed to support Grade 5 scholarship students through in
 
 ---
 
-### 🌱 Haritha Athahitha — SDG Zero Hunger Project
 
-**Focus:**
-`Sustainability` `Resource Allocation` `Community Development`
-
-An NSBM academic project aligned with the **United Nations Sustainable Development Goals**, focusing on supporting households through sustainable agricultural initiatives.
-
----
 
 <!-- ========================= WHAT I KNOW ========================= -->
 
